@@ -10,3 +10,12 @@ can make your code nice and readable.
 
 Sometimes you want to add **a little emphasis** or *some flair*
 
+### two spaces
+When typing tightly
+and you want to put in
+an rendered carriage return
+/newline, you can end a line  
+with two  
+spaces  
+
+Who says two spaces don't count anymore?
